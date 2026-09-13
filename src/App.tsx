@@ -14,7 +14,10 @@ function App() {
   </h1>
 
   <h2>tailwind</h2>
+  <p>sjd</p>
     </>
+
+    
   )
 }
 
