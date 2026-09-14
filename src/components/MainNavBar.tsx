@@ -37,6 +37,7 @@ const MainNavBar = () => {
           </div>
 
         </nav>
+        <h1>rtfyf</h1>
       </header>
     </>
   )
