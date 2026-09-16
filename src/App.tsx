@@ -3,6 +3,7 @@ import './App.css'
 import CategorySlider from './components/CategorySlider'
 import MainCarousel from './components/MainCarousel'
 import MainNavBar from './components/MainNavBar'
+import ServicePage from './pages/ServicePage'
 
 function App() {
  
@@ -11,6 +12,7 @@ function App() {
     <>
      <MainNavBar/>
      <MainCarousel/>
+     <ServicePage/>
      <CategorySlider/>
     </>
 
