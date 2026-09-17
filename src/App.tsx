@@ -3,6 +3,7 @@ import './App.css'
 import CategorySlider from './components/CategorySlider'
 import MainCarousel from './components/MainCarousel'
 import MainNavBar from './components/MainNavBar'
+import PromoBanners from './components/PromoBanner'
 import ServicePage from './pages/ServicePage'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
      <MainCarousel/>
      <ServicePage/>
      <CategorySlider/>
+     <PromoBanners/>
     </>
 
     
