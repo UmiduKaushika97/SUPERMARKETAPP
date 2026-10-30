@@ -16,6 +16,7 @@ function App() {
      <ServicePage/>
      <CategorySlider/>
      <PromoBanners/>
+     <h1>home page</h1>
     </>
 
     
