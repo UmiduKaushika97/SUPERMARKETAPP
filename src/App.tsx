@@ -17,6 +17,7 @@ function App() {
      <CategorySlider/>
      <PromoBanners/>
      <h1>home page</h1>
+     <p>cart</p>
     </>
 
     
