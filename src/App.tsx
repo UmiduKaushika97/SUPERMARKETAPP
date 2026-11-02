@@ -19,6 +19,7 @@ function App() {
      <h1>home page</h1>
      <p>cart</p>
      <p> cart delete </p>
+     <h1>card payout option</h1>
     </>
 
     
