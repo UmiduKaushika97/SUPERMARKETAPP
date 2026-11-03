@@ -20,6 +20,7 @@ function App() {
      <p>cart</p>
      <p> cart delete </p>
      <h1>card payout option</h1>
+     <p>card details</p>
     </>
 
     
