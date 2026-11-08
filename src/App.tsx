@@ -5,6 +5,7 @@ import MainCarousel from './components/MainCarousel'
 import MainNavBar from './components/MainNavBar'
 import MostPopularCategories from './components/MostPopularCategories'
 import PromoBanners from './components/PromoBanner'
+import WeeklyOffers from './components/WeeklyOffers'
 import ServicePage from './pages/ServicePage'
 
 function App() {
@@ -18,14 +19,8 @@ function App() {
      <CategorySlider/>
      <PromoBanners/>
      <MostPopularCategories/>
-     <h1>home page</h1>
-     <p>cart</p>
-     <p> cart delete </p>
-     <h1>card payout option</h1>
-     <p>card details</p>
-     <h2>card details create</h2>
-     <h4>card button create</h4>
-     <h5>button redesign</h5>
+     <WeeklyOffers/>
+     
     </>
 
     
