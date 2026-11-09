@@ -2,8 +2,13 @@ import { ArrowUpRight } from "lucide-react";
 
 const WeeklyOffers = () => {
   return (
+    
     <section className="w-full overflow-hidden bg-white">
-      <div className="grid min-h-[420px] grid-cols-1 lg:grid-cols-2 m-10">
+      <h2 className="text-lg font-bold text-slate-800 md:text-xl ml-10 m-0 ">
+            OFFERS
+    </h2>
+      <div className="grid min-h-[420px] grid-cols-1 lg:grid-cols-2 p-10">
+        
 
         {/* IMAGE SIDE */}
         <div className="relative h-[420px] overflow-hidden sm:h-[500px] lg:h-[450px]">
