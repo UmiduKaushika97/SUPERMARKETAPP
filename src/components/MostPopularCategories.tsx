@@ -147,6 +147,7 @@ const MostPopularCategories = () => {
                 >
                   →
                 </button> */}
+                <p>popular</p>
               </div>
             </div>
           ))}
